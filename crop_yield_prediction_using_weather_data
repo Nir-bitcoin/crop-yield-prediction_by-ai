@@ -1,0 +1,52 @@
+# 🌾 Crop Yield Prediction Using Weather Data
+
+This project leverages the power of **data science** and **machine learning** to forecast crop yields based on historical weather patterns.  
+By analyzing climate conditions, this system aims to help farmers and decision-makers plan better, reduce risks, and maximize agricultural productivity.
+
+---
+
+## 📄 Project Report
+
+📘 You can download the complete project report here:  
+👉 [Weather_Based_Crop_Yield_Prediction_Niranjan_Vishe_Updated.docx](./Weather_Based_Crop_Yield_Prediction_Niranjan_Vishe_Updated.docx)
+
+---
+
+## 👤 Project Details
+
+- **Author**: Niranjan Vishe  
+- **Department**: Computer Science & Engineering  
+- **Institute**: SKN Sinhgad Institute of Technology and Science, Lonavala  
+- **Domain**: Data Science
+
+---
+
+## 🚀 Key Features
+
+- ✅ Historical weather data processing  
+- ✅ Predictive modeling using machine learning algorithms  
+- ✅ Scalable design for integration with sensors and mobile apps  
+- ✅ Supports real-time decision-making for agriculture planning
+
+---
+
+## 🔮 Future Enhancements
+
+Looking ahead, the project can be expanded with:
+
+- 🛰 Integration of satellite image analysis for better spatial prediction  
+- 📱 Development of a mobile app to deliver predictions to farmers directly  
+- 🧠 Advanced deep learning models like LSTM and GRU for time-series forecasting
+
+---
+
+## 🔗 Useful References
+
+- [🌐 Kaggle Datasets – Weather & Crop Data](https://www.kaggle.com/datasets)  
+- [📘 Scikit-learn – Machine Learning Toolkit](https://scikit-learn.org/stable/)  
+- [📘 XGBoost – Advanced ML Library](https://xgboost.readthedocs.io/en/stable/)  
+- [📘 LSTM Networks – Time Series Forecasting](https://towardsdatascience.com/lstm-networks-for-time-series-prediction-8d1b84f9902a)
+
+---
+
+> 📢 *Empowering agriculture through data-driven decisions. Predict better. Grow smarter.*
